@@ -4,13 +4,13 @@ It allows users to input their name, email, and a message, with validation on ea
 
 **Installation**
 - To use this form component, make sure you have React and React Hook Form installed in your project.
-        ```c 
-            npm install react react-hook-form
+     ```c
+    npm install react react-hook-form
 
 - Or to simply use this as a starter project, clone project and run npm install to install all dependencies
-        ```c
-        git clone git@github.com:elpah/react-hook-form.git
-        npm i
+   ```c
+   git clone git@github.com:elpah/react-hook-form.git
+   npm i
 
 **Usage**
 - Import the Form component into your project and include it where you want to render the form.
