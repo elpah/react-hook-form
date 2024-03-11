@@ -17,11 +17,11 @@ It allows users to input their name, email, and a message, with validation on ea
 
 **3. Features**
 - Validation: The form includes validation rules for each field.
-Name: Required and minimum length of 5 characters.
-Email: Required and must match a valid email format.
-Message: Required and minimum length of 5 characters.
-Error Messages: Error messages are displayed when validation conditions are not met.
-Submission: The form data is logged to the console upon submission.
+- Name: Required and minimum length of 5 characters.
+- Email: Required and must match a valid email format.
+- Message: Required and minimum length of 5 characters.
+- Error Messages: Error messages are displayed when validation conditions are not met.
+- Submission: The form data is logged to the console upon submission.
 
 **4. Customization**
 - You can customize the form by modifying the validation rules or adding additional fields as needed. 
