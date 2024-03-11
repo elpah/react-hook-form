@@ -2,7 +2,7 @@
 This is a simple form component built using React and React Hook Form, and utilised scss for styling.
 It allows users to input their name, email, and a message, with validation on each field.
 
-**Installation**
+**1. Installation**
 - To use this form component, make sure you have React and React Hook Form installed in your project.
      ```c
     npm install react react-hook-form
